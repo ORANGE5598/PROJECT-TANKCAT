@@ -8,13 +8,21 @@ Basically the project written by C# Winforms.
 
 # Features provided
 - Running multiple client.
+- All client will be add automatically in the list.
+- Focusing client window by doubleclick in the list.
 - Resizing client windows as you want.
 - Auto sorting the client windows.
 - Overlapping client windows.
-- Automatic login by saved json data.
+- Automatic log-in by saved json data.
+- Client window title change to in-game nickname automatically.
+- Automatic log-out for swap the accounts.
 - Update and modify json data.
 - Automatic in-game interaction as you want.
 - Disable game graphic for reduce hardware load.
+
+# Future development direction
+- Overlay minimap image.
+- Full automation using by OpenCV image recognition functions.
 
 # Code
 ![](https://i.imgur.com/eS5yjyp.png)<br/>
